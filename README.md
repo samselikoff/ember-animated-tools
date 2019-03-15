@@ -1,6 +1,6 @@
 # ember-animated-tools
 
-[Short description of the addon.]
+Renders the debugging toolbar seen on [Ember Animated's docs site](https://ember-animation.github.io/ember-animated) which can be used to slow down and inspect your animations.
 
 
 Compatibility
@@ -14,7 +14,7 @@ Installation
 ------------------------------------------------------------------------------
 
 ```
-ember install my-addon
+ember install ember-animated-tools
 ```
 
 
